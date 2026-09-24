@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "ppol-5203-fall-2026"
+assignment: "week-2-in-class-activity"
+owner:
+  username: "skoretsky"
+  id: 60241098
+  accepted_at: "2026-09-24T17:51:51Z"
+source:
+  owner: "rebeccajohnson88"
+  owner_id: 21369316
+  repo: "ppol5203_fall26_classactivities"
+  branch: "main"
